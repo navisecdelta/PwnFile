@@ -14,6 +14,7 @@
 import sys
 import argparse
 import logging
+import signal
 
 from impacket.examples import logger
 from impacket import version
